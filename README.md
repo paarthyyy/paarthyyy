@@ -1,20 +1,21 @@
+[Uploading README (1).md…]()
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Paarth%20Chaudhari&fontSize=42&fontColor=0b1120&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:C56CF0,100:4FACFE&height=200&section=header&text=Paarth%20Chaudhari&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=CS+Student;Building+with+Python%2C+Java%2C+C%2B%2B%2C+JavaScript;Exploring+PyTorch+%26+the+OpenAI+API" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF61D2&center=true&vCenter=true&width=500&lines=CS+Student;Building+with+Python%2C+Java%2C+C%2B%2B%2C+JavaScript;Exploring+PyTorch+%26+the+OpenAI+API" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=950606" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-FF61D2?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paarthyyy&color=7dd3fc&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/paarthyyy?color=7dd3fc&style=flat-square&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=paarthyyy&color=c56cf0&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/paarthyyy?color=4facfe&style=flat-square&label=Followers" />
 </p>
 
 ---
@@ -39,7 +40,7 @@ const paarth = {
 #### calculated.py
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paarthyyy&repo=calculated.py&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0b1120" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paarthyyy&repo=calculated.py&theme=radical&border_color=c56cf0" />
 </p>
 
 | Layer | Technology |
@@ -69,20 +70,20 @@ const paarth = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paarthyyy&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0b1120" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarthyyy&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0b1120" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paarthyyy&show_icons=true&theme=radical&border_color=c56cf0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarthyyy&layout=compact&theme=radical&border_color=c56cf0" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=paarthyyy&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&background=0b1120" />
+  <img src="https://streak-stats.demolab.com?user=paarthyyy&theme=radical&border=c56cf0&ring=ff6b6b&fire=ff61d2" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paarthyyy&no-frame=true&no-bg=true&theme=nord" />
+  <img src="https://github-profile-trophy.vercel.app/?username=paarthyyy&no-frame=true&no-bg=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paarthyyy&theme=react-dark&color=7dd3fc&line=7dd3fc&point=c9d1d9&bg_color=0b1120" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paarthyyy&theme=react-dark&color=c56cf0&line=ff61d2&point=4facfe&bg_color=0d1117" />
 </p>
 
 ---
@@ -91,8 +92,8 @@ const paarth = {
 
 <p align="center">
   <a href="mailto:paarth.chaudhari07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0b1120" />
+    <img src="https://img.shields.io/badge/Email-FF61D2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,50:C56CF0,100:FF6B6B&height=120&section=footer&animation=twinkling" />
