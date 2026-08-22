@@ -1,26 +1,26 @@
-[README (2).md](https://github.com/user-attachments/files/31337593/README.2.md)
+[README (3).md](https://github.com/user-attachments/files/31337617/README.3.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:C56CF0,100:4FACFE&height=220&section=header&text=Hey,%20I'm%20Paarth%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Building%20with%20Python%20%26%20AI&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF6B6B,50:C56CF0,100:4FACFE&amp;height=220&amp;section=header&amp;text=Hey,%20I'm%20paarthyyy%20%F0%9F%91%8B&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=CS%20Student%20%7C%20Building%20with%20Python%20%26%20AI&amp;descAlignY=58&amp;descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=FF61D2&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Turning+coffee+%E2%98%95+into+code;PyTorch+%2B+OpenAI+API+tinkerer;Always+shipping+something+new" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=2500&amp;pause=800&amp;color=FF61D2&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=600&amp;height=80&amp;lines=Turning+coffee+into+code;PyTorch+%2B+OpenAI+API+tinkerer;Always+shipping+something+new" />
 
 &nbsp;
 
-<img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-FF61D2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_TO_WORK-FF61D2?style=for-the-badge&amp;logoColor=white" />
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=paarthyyy&color=c56cf0&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=paarthyyy&amp;color=c56cf0&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/paarthyyy?color=4facfe&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/paarthyyy?color=4facfe&amp;style=for-the-badge&amp;label=FOLLOWERS&amp;logo=github&amp;logoColor=white" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=40&amp;section=header&amp;animation=twinkling" />
 
 ## ⚡ Who I Am
 
 ```typescript
-const paarth = {
+const paarthyyy = {
   title: "CS Student",
   stack: ["Python", "Java", "C++", "JavaScript", "PyTorch", "OpenAI API"],
   launchedProjects: ["calculated.py"],
@@ -30,7 +30,7 @@ const paarth = {
 };
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=30" />
 
 ## 🚀 Featured Projects
 
@@ -39,7 +39,7 @@ const paarth = {
 ### 🐍 calculated.py
 
 <a href="https://github.com/paarthyyy/calculated.py">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paarthyyy&repo=calculated.py&theme=radical&border_color=FF61D2&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paarthyyy&amp;repo=calculated.py&amp;theme=radical&amp;border_color=FF61D2&amp;hide_border=false" />
 </a>
 
 | Layer | Technology |
@@ -50,7 +50,7 @@ const paarth = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=30" />
 
 ## 🛠️ Tech Stack
 
@@ -58,34 +58,34 @@ const paarth = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js&amp;theme=dark" />
 
 <br/>
 
 **AI / Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=pytorch,openai&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,openai&amp;theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=30" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paarthyyy&show_icons=true&theme=radical&border_color=FF61D2&hide_border=false&icon_color=FF61D2" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarthyyy&layout=compact&theme=radical&border_color=FF61D2&hide_border=false" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=paarthyyy&amp;show_icons=true&amp;theme=radical&amp;border_color=FF61D2&amp;hide_border=false&amp;icon_color=FF61D2" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarthyyy&amp;layout=compact&amp;theme=radical&amp;border_color=FF61D2&amp;hide_border=false" width="35%" />
 
-<img src="https://streak-stats.demolab.com?user=paarthyyy&theme=radical&border=FF61D2&ring=FF6B6B&fire=FF61D2&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=paarthyyy&amp;theme=radical&amp;border=FF61D2&amp;ring=FF6B6B&amp;fire=FF61D2&amp;hide_border=false" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=paarthyyy&no-frame=true&no-bg=true&theme=radical&row=1&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=paarthyyy&amp;no-frame=true&amp;no-bg=true&amp;theme=radical&amp;row=1&amp;margin-w=15" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paarthyyy&theme=react-dark&color=C56CF0&line=FF61D2&point=4FACFE&bg_color=0D1117&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paarthyyy&amp;theme=react-dark&amp;color=C56CF0&amp;line=FF61D2&amp;point=4FACFE&amp;bg_color=0D1117&amp;hide_border=true" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=30" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=30" />
 
 ## 📬 Let's Connect
 
@@ -95,4 +95,4 @@ const paarth = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,50:C56CF0,100:FF6B6B&height=150&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4FACFE,50:C56CF0,100:FF6B6B&amp;height=150&amp;section=footer&amp;animation=fadeIn" />
