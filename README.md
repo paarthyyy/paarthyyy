@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31337723/README.md)
-<div align="center">
+[README (1).md](https://github.com/user-attachments/files/31337758/README.1.md)<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF6B6B,50:C56CF0,100:4FACFE&amp;height=220&amp;section=header&amp;text=Hey%2C%20I%27m%20paarthyyy%20%F0%9F%91%8B&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=CS%20Student%20%7C%20Building%20with%20Python%20%26%20AI&amp;descAlignY=58&amp;descSize=18" />
 
