@@ -93,5 +93,4 @@ const paarthyyy = {
 [![Gmail](https://img.shields.io/badge/Email-FF61D2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paarth.chaudhari07@gmail.com)
 
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4FACFE,50:C56CF0,100:FF6B6B&amp;height=150&amp;section=footer&amp;animation=fadeIn" />
